@@ -1,8 +1,7 @@
 # fahrenhite-celsius-
-Python Program To Convert Fahrenhite to Celsiu
+Python Program To Convert Fahrenhite to Celsius:
 
 Celsius = (Fahrenheit – 32) * 5/9
-
 Fahrenheit = (Celsius * 9/5) + 32
 
 celsius = float(input("Enter temperature in celsius: "))
