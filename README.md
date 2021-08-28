@@ -1,5 +1,6 @@
 # fahrenhite-celsius-
 Definition:
+
 FAHRENHEIT:
 Fahrenheit is a thermodynamic temperature scale, where the freezing point of water is 32 degrees Fahrenheit (°F) and the boiling point 212°F (at standard atmospheric pressure). This puts the boiling and freezing points of water exactly 180 degrees apart. Therefore, a degree on the Fahrenheit scale is 1/180 of the interval between the freezing point and the boiling point of water. Absolute zero is defined as -459.67°F.
 A temperature difference of 1°F is the equivalent of a temperature difference 0.556°C.
@@ -11,23 +12,31 @@ The Celsius scale is an interval system but not a ratio system, meaning it follo
 A temperature difference of 1 deg C is the equivalent of a temperature difference 1.8°F.
  
 Abbreviation/Symbol:
+
 Celsius:°C,Centigrade,deg C,degree C:
+
 Fahrenheit:°F
 
 Unit of:Temperature
+
 Worldwide use:
+
 CELSIUS:
 The Celsius scale, already widely used in Europe, replaced the Fahrenheit scale in most countries during the mid-to-late 20th century, although Fahrenheit remains the official scale of the United States, Cayman Islands and Belize.
- FAHRENHITE:
+ 
+FAHRENHITE:
 The Fahrenheit scale was replaced by the Celsius scale in most countries during the mid to late 20th century, although Fahrenheit remains the official scale of the United States, Cayman Islands and Belize.Canada retains Fahrenheit as a supplementary scale that can be used alongside Celsius, and in the UK the Fahrenheit scale continues to be used informally, especially in terms of expressing hot weather (although colder weather is generally expressed using the Celsius scale).
 
 Origin:
+
 FAHRENHITE:
 Proposed in 1724 by, and named after, the German physicist Daniel Gabriel Fahrenheit (1686–1736). Fahrenheit pioneered the manufacture of thermometers using mercury, and established 0°F as the stabilized temperature when equal amounts of ice, water, and salt are mixed. He then defined 96°F as the temperature "when the thermometer is held in the mouth or under the armpit of a living man in good health".Subsequently, the freezing temperature of water has been redefined as exactly 32°F, and normal human body temperature as 98.6°F.
- CELSIUS:
+
+CELSIUS:
  The Celsius scale is named after the Swedish astronomer Anders Celsius (1701-1744). In 1742, Celsius created a temperature scale wherein 0 degrees was the boiling point of water and 100 degrees the freezing point.Around this time other physicists independently developed a similar scale but reversed, such that 0 degrees was the melting point of ice and 100 degrees the boiling point of water. This new ‘forward’ scale was widely adopted across continental Europe, generally being referred to as the centigrade scale.The scale was officially named as ‘The Celsius scale’ in 1948 to prevent confusion with the use of centigrade as an angular measurement
 
 Common references:
+
 CELSIUS:
  Absolute Zero, -273.15°C
 Melting point of ice, 0°C (actually -0.0001°C)
